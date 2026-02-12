@@ -1,12 +1,12 @@
 
 import React, { useState } from 'react';
-import Layout from './components/Layout';
+import Layout from './Layout';
 import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
-import GeminiChat from './components/GeminiChat';
+import GeminiChat from './GeminiChat';
 import { Page } from './types';
 
 const App: React.FC = () => {
