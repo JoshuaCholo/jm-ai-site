@@ -1,0 +1,8 @@
+{
+  "name": "JoshuAIservices Portfolio",
+  "description": "A high-performance React portfolio for a Business Systems & Automation Specialist, featuring integrated Gemini AI consultation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
